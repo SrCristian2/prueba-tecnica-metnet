@@ -15,7 +15,7 @@ Este repositorio contiene tanto el **backend** (API + base de datos) como el **f
 ### 1. Clona el repositorio
 
 ```sh
-git clone <URL_DEL_REPO>
+git clone https://github.com/SrCristian2/prueba-tecnica-metnet.git
 ```
 
 ---
@@ -23,6 +23,7 @@ git clone <URL_DEL_REPO>
 ### 2. Backend
 
 1. Entra a la carpeta del backend:
+
    ```sh
    cd backend
    ```
